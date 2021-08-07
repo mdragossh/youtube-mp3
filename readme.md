@@ -17,7 +17,8 @@ source initial_setup.sh
 Copy yt links into file createde `song_list.txt` and run 
 `python3 main.py`
 
-Deactivate your venv write 
+Deactivate your venv 
+write: 
 ```bash
 (venv) user@user > deactivate
 user@user > rm -rf venv
